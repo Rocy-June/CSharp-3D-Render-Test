@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Renderer.Console/Renderer.Console.csproj" />
+  <Project Path="Renderer.Core/Renderer.Core.csproj" />
+</Solution>
