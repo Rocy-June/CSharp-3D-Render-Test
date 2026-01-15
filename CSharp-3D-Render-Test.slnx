@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="Renderer.Console/Renderer.Console.csproj" />
   <Project Path="Renderer.Core/Renderer.Core.csproj" />
+  <Project Path="Renderer.WPF/Renderer.WPF.csproj" Id="7a83882b-0e62-4c31-a215-1292b54c0018" />
 </Solution>
